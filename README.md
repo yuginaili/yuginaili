@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Hugo! 👋
 
-<!--
-**yuginaili/yuginaili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Software Engineer, driven by a curiosity for technology and a love for coding and problem solving. My journey involves delving into the world of Web development, exploring new ideas, learning new skills and sharing my knowledge with the community.
 
-Here are some ideas to get you started:
+![yuginaili's Stats](https://github-readme-stats.vercel.app/api?username=yuginaili&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+A seasoned Front End Software Engineer with over 15 years of proven success in delivering top-notch solutions across various technology stacks. Skilled in both MERN and LAMP Stacks, I bring expertise across a diverse range of Frontend and JavaScript frameworks. My specialization centers on leading frontend development efforts for a range of Web and Mobile projects, leveraging modern, cutting-edge tech tools alongside innovative strategies. Effective project and team lead as well as client communication, and leadership skills to consistently attain optimal project results.
+
+## 🏆 Achievements
+
+- 🌟 Successfully streamlined development timelines and budgets, achieving a significant reduction in project costs while concurrently enhancing user interface design and functionality on websites.
+- 📝 Devoted to perpetual growth and improvement, I consistently broaden my skill set, staying aligned with industry advancements and trends.
+- 🌐 Fueled by a passion for knowledge sharing, I am wholeheartedly committed to teaching, mentoring, and actively contributing to the open-source community.
+- ✍️ My profound expertise, innovative approach, and unwavering commitment to ongoing learning position me as an invaluable asset for any mission-driven organization aiming to elevate its digital presence and capabilities.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,graphql,flutter,docker,mongodb,aws)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- Learning Software Architecture and design patterns.
+- Going deeper Into GraphQL and the Ingredients that make It great.
+- Building server-side applications with Node.js.
+
+
+## 📬 Get in Touch
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. [LinkedIn](https://www.linkedin.com/in/hugonaili/)
