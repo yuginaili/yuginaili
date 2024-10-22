@@ -2,8 +2,6 @@
 
 I am a passionate Software Engineer, driven by a curiosity for technology and a love for coding and problem solving. My journey involves delving into the world of Web development, exploring new ideas, learning new skills and sharing my knowledge with the community.
 
-![yuginaili's Stats](https://github-readme-stats.vercel.app/api?username=yuginaili&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 A seasoned Front End Software Engineer with over 15 years of proven success in delivering top-notch solutions across various technology stacks. Skilled in both MERN and LAMP Stacks, I bring expertise across a diverse range of Frontend and JavaScript frameworks. My specialization centers on leading frontend development efforts for a range of Web and Mobile projects, leveraging modern, cutting-edge tech tools alongside innovative strategies. Effective project and team lead as well as client communication, and leadership skills to consistently attain optimal project results.
